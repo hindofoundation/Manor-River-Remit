@@ -1,0 +1,6 @@
+{
+  "name": "Cross-Border Remittance",
+  "description": "A full-stack regional money transfer platform connecting Sierra Leone, Guinea, and Liberia with local mobile money integration, real-time rates, and administrative compliance monitoring.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
